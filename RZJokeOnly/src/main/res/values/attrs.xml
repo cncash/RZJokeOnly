@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name = "JokeView">
+        <attr name="key" format="string" />
+        <!--<attr name="posIdGDT" format="string" />
+        <attr name="appIdGDT" format="string" />
+        <attr name="codeIdTT" format="string" />
+        <attr name="appIdTT" format="string" />
+        <attr name="adPosition" format="integer" />-->
+    </declare-styleable>
+</resources>
